@@ -1,7 +1,6 @@
 [package]
 name = "lerp_ol"
 description = "one line function: lerp"
-license = "MIT"
 license-file = "LICENSE"
 readme = "README.md"
 homepage = "https://github.com/wolfired/lerp_ol"
